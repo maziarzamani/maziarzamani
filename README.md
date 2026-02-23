@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**maziarzamani/maziarzamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Maziar, a founder, engineer and CTO based in Denmark.  
+By day I build in energy. For fun I tinker with local-first AI.
 
-Here are some ideas to get you started:
+## Current projects
+- [Spaceduck](https://github.com/maziarzamani/spaceduck)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+- [os.energy](https://os.energy)
+
+## Previously
+- [SASHA](https://www.sasha.eu)
+- [Ada](https://www.adababymonitor.com)
+- [Rokoko](https://www.rokoko.com)
+
+## GitHub activity
+![Commit activity](https://img.shields.io/github/commit-activity/m/maziarzamani/spaceduck)
+
+## Connect
+[![GitHub](https://img.shields.io/badge/GitHub-maziarzamani-181717?logo=github&logoColor=white)](https://github.com/maziarzamani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maziar%20Zamani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maziarzamani/)
