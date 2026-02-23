@@ -4,15 +4,15 @@ I’m Maziar, a founder, engineer and CTO based in Denmark.
 By day I build in energy. For fun I tinker with local-first AI.
 
 ## Current projects
-- [spaceduck](https://github.com/maziarzamani/spaceduck)
+- 🦆 [spaceduck](https://github.com/maziarzamani/spaceduck)
 
 ## Work
-- [os.energy](https://os.energy)
+- ⚡️ [os.energy](https://os.energy)
 
 ## Previously
-- [SASHA](https://www.sasha.eu)
-- [Ada](https://www.adababymonitor.com)
-- [Rokoko](https://www.rokoko.com)
+- 🛡️ [SASHA](https://www.sasha.eu)
+- 👶 [Ada](https://www.adababymonitor.com)
+- 🕺 [Rokoko](https://www.rokoko.com)
 
 ## GitHub activity
 ![Commit activity](https://img.shields.io/github/commit-activity/m/maziarzamani/spaceduck)
