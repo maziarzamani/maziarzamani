@@ -11,7 +11,7 @@ By day I build in energy. For fun I tinker with local-first AI.
 
 ## Previously
 - 🛡️ [SASHA](https://www.sasha.eu)
-- 👶 [Ada](https://www.adababymonitor.com)
+- 👶 [ADA](https://www.adababymonitor.com)
 - 🕺 [Rokoko](https://www.rokoko.com)
 
 ## GitHub activity
