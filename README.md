@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m Maziar, a founder, engineer and CTO based in Denmark.  
-By day I build in energy. For fun I tinker with local-first AI.
+By day I build in energy. By night i tinker with local-first AI.
 
 ## Current projects
 - 🦆 [spaceduck](https://github.com/maziarzamani/spaceduck)
