@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Maziar, a founder, roboticist, engineer and CTO based in Denmark.  
+I’m Maziar, a founder, roboticist, hardware and software engineer, and CTO based in Denmark.  
 By day I build in energy. By night i tinker with local-first AI.
 
 ## Current projects
