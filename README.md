@@ -3,9 +3,10 @@
 I’m Maziar, a founder, roboticist, hardware and software engineer, and CTO based in Denmark.  
 By day I build in energy. By night i tinker with local-first AI.
 
-## Current projects
+## Projects
 - 🦆 [spaceduck](https://github.com/maziarzamani/spaceduck)
 - 📊 [findrente.dk](https://findrente.dk)
+- 🕸️ [bouncy](https://github.com/maziarzamani/bouncy)
 
 ## Work
 - ⚡️ [os.energy](https://os.energy)
