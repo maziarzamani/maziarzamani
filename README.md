@@ -4,6 +4,7 @@ I’m Maziar, a founder, roboticist, hardware and software engineer, and CTO bas
 By day I build in energy. By night i tinker with local-first AI.
 
 ## Projects
+- 🔌 [JuiceCAD](https://juicecad.com)
 - 🦆 [spaceduck](https://github.com/maziarzamani/spaceduck)
 - 📊 [findrente.dk](https://findrente.dk)
 - 🕸️ [bouncy](https://github.com/maziarzamani/bouncy)
