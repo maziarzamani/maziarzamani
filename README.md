@@ -10,6 +10,7 @@ By day I build in energy. By night i tinker with local-first AI.
 - 🕸️ [bouncy](https://github.com/maziarzamani/bouncy)
 
 ## Work
+- ⚡️ [Osmund](https://osmundenergi.dk)
 - ⚡️ [os.energy](https://os.energy)
 
 ## Previously
